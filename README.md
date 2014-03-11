@@ -20,6 +20,6 @@ Usage
     }
     
     dependencies {
-        compile 'com.github.chrisbanes.pulltorefresh:library:2.4.2-SNAPSHOT'
+        compile 'com.github.chrisbanes.pulltorefresh:library:2.1.2-SNAPSHOT'
     }
 
